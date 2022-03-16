@@ -22,12 +22,11 @@
   <li>Adobe Photoshop</li>
   <li>Adobe Indesing</li>
  </ul>
-<ins>Posibles puestos a cubrir:</ins>
+<ins>Puestos deseados:</ins>
 <ul>
-  <li>Diseñador y desarrollador web front-end </li>
+  <li>Diseñador y desarrollador web front-end</li>
   <li>Maquetador de front-end</li>
-  <li>Creativo online para agencias de publicidad y marketing</li>
- </ul>
+</ul>
 
 <p>¡Espero hacer del Desarrollo Web mi profesión en un futuro cercano!</p>
 
