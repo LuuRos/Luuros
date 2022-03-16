@@ -9,11 +9,29 @@
   </a> <h1>Holaaa!</h1>👋
   
 <br>Soy <strong>Diseñadora Gráfica</strong> , quien encontró su pasión en el arte de hacer páginas webs. Quería ampliar mis conocimientos en el área, lo que me llevó a cursar <strong>html5 y Css3</strong> en <a href="https://trazos.net/desarrollo-web/curso-de-html5-css3/">TRAZOS</a>.</p>
+
+<ins>Conocimientos:</ins>
+<ul>
+  <li>Html5</li>
+  <li>Css</li>
+  <li>Scss</li>
+  <li>Bootstrap</li>
+  <li>Jquery</li>
+  <li>Wordpress</li>
+  <li>Adobe Illustrator</li>
+  <li>Adobe Photoshop</li>
+  <li>Adobe Indesing</li>
+ </ul>
+<ins>Posibles puestos a cubrir:</ins>
+<ul>
+  <li>Diseñador y desarrollador web front-end </li>
+  <li>Maquetador de front-end</li>
+  <li>Creativo online para agencias de publicidad y marketing</li>
+ </ul>
+
 <p>¡Espero hacer del Desarrollo Web mi profesión en un futuro cercano!</p>
 
-Aquí hay algunas ideas para comenzar:
-- 🔭 Actualmente estoy trabajando de diseñadora grafica freelance.
-- 🌱 Actualmente estoy aprendiendo javascript y toodas sus librerias.
+- 🔭 Trabajando de diseñadora grafica freelance.
+- 🌱 Aprendiendo javascript y toodas sus librerias.
 - 📫 Cómo contactarme: lucia.rosales@hotmail.es
 - ⚡ Dato curioso: Soy muy adaptable a cualquier jornada laboral.
--->
